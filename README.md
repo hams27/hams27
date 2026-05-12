@@ -50,15 +50,13 @@
 
 # 📊 GitHub Stats
 
-
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hams27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hams27&show_icons=true&theme=radical" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hams27&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hams27&layout=compact&theme=radical" />
 
 </p>
-
 
 ---
 
@@ -67,14 +65,16 @@
 <p align="center">
 
 <a href="https://github.com/hams27/MINA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hams27&repo=MINA&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hams27&repo=MINA&theme=radical" />
 </a>
 
 <a href="https://github.com/hams27/My-Plant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hams27&repo=My-Plant&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hams27&repo=My-Plant&theme=radical" />
 </a>
 
 </p>
+
+
 
 ---
 
@@ -83,7 +83,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/hams27/hams27/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/hams27/hams27/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
