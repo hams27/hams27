@@ -10,7 +10,7 @@
 
 ## 🌸 About Me
 
-<img align="right" width="45%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="45%" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://pin.it/73LbKKkOa)"/>
 
 * 💻 Front-End Web Developer & Freelancer
 * 🌱 Currently improving my skills in **angular, Bootstrap & UI/UX**
@@ -26,21 +26,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hams27">
   <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="(https://www.linkedin.com/in/hams-atef-7627b9247)">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -49,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,firebase,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,github,vscode,figma" />
 
 </p>
 
