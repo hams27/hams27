@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/>
 </a>
 
-<a href="(https://www.linkedin.com/in/hams-atef-7627b9247)">
+<a href="https://www.linkedin.com/in/hams-atef-7627b9247">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 
