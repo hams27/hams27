@@ -3,7 +3,7 @@
 ### Front-End Web Developer 💻✨ from Egypt
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;Freelancer;React+%7C+JavaScript+%7C+UI%2FUX;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;Freelancer;Angular+%7C+JavaScript+%7C+UI%2FUX;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -95,7 +95,7 @@
 <img src="https://img.shields.io/badge/Freelancer-0077B5?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>
 
-<a href="(https://khamsat.com/user/hams27)">
+<a href="https://khamsat.com/user/hams27">
 <img src="https://img.shields.io/badge/Khamsat-FF6B00?style=for-the-badge"/>
 </a>
 
