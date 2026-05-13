@@ -59,22 +59,16 @@
 </p>
 
 ---
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/hams27/MINA">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hams27&repo=MINA&theme=radical" />
-</a>
-
-<a href="https://github.com/hams27/My-Plant">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hams27&repo=My-Plant&theme=radical" />
-</a>
-
-</p>
-
-
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🚀 Khatwa](https://github.com/hams27/Khatwa) | Modern web project with clean layout | HTML · CSS · JS |
+| [🛒 E-Commerce](https://github.com/hams27/AhmedAttaE-Commerce) | Responsive e-commerce frontend | HTML · CSS · JS |
+| [💼 Medical Rep Portfolio](https://github.com/hams27/hossamNasrallahMedicalRep) | Arabic dark-theme portfolio | HTML · CSS · JS |
+| [🎬 Videographer Portfolio](https://github.com/hams27/ahmedAttaVideoGrapher) | Creative visual portfolio | HTML · CSS |
+| [🌿 My Plant](https://github.com/hams27/My-Plant) | Plant-themed UI design | React · CSS |
+| [✨ MINA](https://github.com/hams27/MINA) | Advanced React project | React · CSS |
 
 ---
 
